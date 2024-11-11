@@ -1,2 +1,2 @@
 # recipe
-Testing HTML skills
+Testing HTML skills by building a basic recipe website
